@@ -2,8 +2,11 @@
 
 ## Final Product
 
-!["Screenshot of main URL page"](https://github.com/Coltonb-boop/tinyapp/blob/master/docs/editting-page.png?raw=true)
-!["Screenshot of shortURL editting page"](https://github.com/Coltonb-boop/tinyapp/blob/master/docs/urls-page.png?raw=true)
+!["Screenshot of start page"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerMain.png?raw=true)
+!["Screenshot of adding"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerAdding.png?raw=true)
+!["Screenshot of appointment added"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerAdded.png?raw=true)
+!["Screenshot of deleting"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerDelete.png?raw=true)
+!["Screenshot of different day"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerTuesday.png?raw=true)
 
 ## Setup
 
